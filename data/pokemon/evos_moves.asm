@@ -810,14 +810,28 @@ MagnetonEvosMoves:
 
 KoffingEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 35, WEEZING
+	db EVOLVE_LEVEL, 99, WEEZING
 	db 0
 ; Learnset
+	db 10, SCREECH
+	db 12, TAKE_DOWN
+	db 20, HAZE
+	db 24, ACID
 	db 32, SLUDGE
 	db 37, SMOKESCREEN
 	db 40, SELFDESTRUCT
-	db 45, HAZE
+	db 45, CONFUSION
 	db 48, EXPLOSION
+	db 50, TOXIC
+	db 55, PSYBEAM
+	db 67, PSYCHIC_M
+	db 69, TRI_ATTACK
+	db 80, KINESIS
+	db 90, THUNDERPUNCH
+	db 91, FIRE_PUNCH
+	db 92, ICE_PUNCH
+	db 95, ACID_ARMOR
+	db 100, LEER
 	db 0
 
 MissingNo38EvosMoves:
