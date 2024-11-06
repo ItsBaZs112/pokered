@@ -5,20 +5,20 @@ _SilphCo7FSilphWorkerM1HaveThisPokemonText::
 	cont "Why, thank you!"
 
 	para "I want you to"
-	line "have this #MON"
+	line "have this KOFFING"
 	cont "for saving us."
 	prompt
 
 _SilphCo7FSilphWorkerM1LaprasDescriptionText::
 	text "It's LAPRAS. It's"
-	line "very intelligent."
+	line "very unintelligent."
 
 	para "We kept it in our"
 	line "lab, but it will"
 	cont "be much better"
 	cont "off with you!"
 
-	para "I think you will"
+	para "I think you won't"
 	line "be a good trainer"
 	cont "for LAPRAS!"
 
@@ -43,7 +43,7 @@ _SilphCo7FSilphWorkerM2AfterTheMasterBallText::
 	text "TEAM ROCKET was"
 	line "after the MASTER"
 	cont "BALL which will"
-	cont "catch any #MON!"
+	cont "catch any KOFFING!"
 	done
 
 _SilphCo7FSilphWorkerM2CancelledMasterBallText::
@@ -57,7 +57,7 @@ _SilphCo7FSilphWorkerM3ItWouldBeBadText::
 	text "It would be bad"
 	line "if TEAM ROCKET"
 	cont "took over SILPH"
-	cont "or our #MON!"
+	cont "or our KOFFING!"
 	done
 
 _SilphCo7FSilphWorkerM3YouChasedOffTeamRocketText::
@@ -194,7 +194,7 @@ _SilphCo7FRivalGoodLuckToYouText::
 	cont "how they evolve!"
 
 	para "I'm going to the"
-	line "#MON LEAGUE"
+	line "KOFFING LEAGUE"
 	cont "to boot out the"
 	cont "ELITE FOUR!"
 

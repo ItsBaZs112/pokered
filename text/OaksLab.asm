@@ -15,36 +15,36 @@ _OaksLabRivalGoAheadAndChooseText::
 
 _OaksLabRivalMyPokemonLooksStrongerText::
 	text "<RIVAL>: My"
-	line "#MON looks a"
+	line "KOFFING looks a"
 	cont "lot stronger."
 	done
 
 _OaksLabThoseArePokeBallsText::
 	text "Those are #"
 	line "BALLs. They"
-	cont "contain #MON!"
+	cont "contain KOFFING!"
 	done
 
 _OaksLabYouWantCharmanderText::
 	text "So! You want the"
-	line "poison #MON,"
+	line "poison KOFFING,"
 	cont "KOFFING?"
 	done
 
 _OaksLabYouWantSquirtleText::
 	text "So! You want the"
-	line "poison #MON,"
+	line "poison KOFFING,"
 	cont "KOFFING?"
 	done
 
 _OaksLabYouWantBulbasaurText::
 	text "So! You want the"
-	line "poison #MON,"
+	line "poison KOFFING,"
 	cont "KOFFING?"
 	done
 
 _OaksLabMonEnergeticText::
-	text "This #MON is"
+	text "This KOFFING is"
 	line "really energetic!"
 	prompt
 
@@ -57,26 +57,26 @@ _OaksLabReceivedMonText::
 
 _OaksLabLastMonText::
 	text "That's PROF.OAK's"
-	line "last #MON!"
+	line "last KOFFING!"
 	done
 
 _OaksLabOak1WhichPokemonDoYouWantText::
 	text "OAK: Now, <PLAYER>,"
-	line "which #MON do"
+	line "which KOFFING do"
 	cont "you want?"
 	done
 
 _OaksLabOak1YourPokemonCanFightText::
 	text "OAK: If a wild"
-	line "#MON appears,"
-	cont "your #MON can"
+	line "KOFFING appears,"
+	cont "your KOFFING can"
 	cont "fight against it!"
 	done
 
 _OaksLabOak1RaiseYourYoungPokemonText::
 	text "OAK: <PLAYER>,"
 	line "raise your young"
-	cont "#MON by making"
+	cont "KOFFING by making"
 	cont "it fight!"
 	done
 
@@ -84,14 +84,14 @@ _OaksLabOak1DeliverParcelText::
 	text "OAK: Oh, <PLAYER>!"
 
 	para "How is my old"
-	line "#MON?"
+	line "KOFFING?"
 
 	para "Well, it seems to"
 	line "like you a lot."
 
 	para "You must be"
 	line "talented as a"
-	cont "#MON trainer!"
+	cont "KOFFING trainer!"
 
 	para "What? You have"
 	line "something for me?"
@@ -109,7 +109,7 @@ _OaksLabOak1ParcelThanksText::
 	done
 
 _OaksLabOak1PokemonAroundTheWorldText::
-	text "#MON around the"
+	text "KOFFING around the"
 	line "world wait for"
 	cont "you, <PLAYER>!"
 	done
@@ -117,13 +117,13 @@ _OaksLabOak1PokemonAroundTheWorldText::
 _OaksLabOak1ReceivedPokeballsText::
 	text "OAK: You can't get"
 	line "detailed data on"
-	cont "#MON by just"
+	cont "KOFFING by just"
 	cont "seeing them."
 
 	para "You must catch"
 	line "them! Use these"
 	cont "to capture wild"
-	cont "#MON."
+	cont "KOFFING."
 
 	para "<PLAYER> got 5"
 	line "# BALLs!@"
@@ -132,7 +132,7 @@ _OaksLabOak1ReceivedPokeballsText::
 _OaksLabGivePokeballsExplanationText::
 	text_start
 	para "When a wild"
-	line "#MON appears,"
+	line "KOFFING appears,"
 	cont "it's fair game."
 
 	para "Just throw a #"
@@ -142,7 +142,7 @@ _OaksLabGivePokeballsExplanationText::
 	para "This won't always"
 	line "work, though."
 
-	para "A healthy #MON"
+	para "A healthy KOFFING"
 	line "could escape. You"
 	cont "have to be lucky!"
 	done
@@ -177,9 +177,9 @@ _OaksLabOak2Text::
 _OaksLabGirlText::
 	text "PROF.OAK is the"
 	line "authority on"
-	cont "#MON!"
+	cont "KOFFING!"
 
-	para "Many #MON"
+	para "Many KOFFING"
 	line "trainers hold him"
 	cont "in high regard!"
 	done
@@ -201,7 +201,7 @@ _OaksLabOakChooseMonText::
 	para "Here, <PLAYER>!"
 
 	para "There are 3"
-	line "#MON here!"
+	line "KOFFING here!"
 
 	para "Haha!"
 
@@ -210,7 +210,7 @@ _OaksLabOakChooseMonText::
 
 	para "When I was young,"
 	line "I was a serious"
-	cont "#MON trainer!"
+	cont "KOFFING trainer!"
 
 	para "In my old age, I"
 	line "have only 3 left,"
@@ -242,8 +242,7 @@ _OaksLabRivalIllTakeThisOneText::
 
 _OaksLabRivalReceivedMonText::
 	text "<RIVAL> received"
-	line "a @"
-	text_ram wNameBuffer
+	line "GRIMER"
 	text "!@"
 	text_end
 
@@ -251,7 +250,7 @@ _OaksLabRivalIllTakeYouOnText::
 	text "<RIVAL>: Wait"
 	line "<PLAYER>!"
 	cont "Let's check out"
-	cont "our #MON!"
+	cont "my GRIMER!"
 
 	para "Come on, I'll take"
 	line "you on!"
@@ -260,8 +259,8 @@ _OaksLabRivalIllTakeYouOnText::
 _OaksLabRivalIPickedTheWrongPokemonText::
 	text "WHAT?"
 	line "Unbelievable!"
-	cont "I picked the"
-	cont "wrong #MON!"
+	cont "I should have"
+	cont "picked KOFFING!"
 	prompt
 
 _OaksLabRivalAmIGreatOrWhatText::
@@ -272,7 +271,7 @@ _OaksLabRivalAmIGreatOrWhatText::
 _OaksLabRivalSmellYouLaterText::
 	text "<RIVAL>: Okay!"
 	line "I'll make my"
-	cont "#MON fight to"
+	cont "GRIMER fight to"
 	cont "toughen it up!"
 
 	para "<PLAYER>! Gramps!"
@@ -301,7 +300,7 @@ _OaksLabOakMyInventionPokedexText::
 
 	para "It automatically"
 	line "records data on"
-	cont "#MON you've"
+	cont "KOFFING you've"
 	cont "seen or caught!"
 
 	para "It's a hi-tech"
@@ -320,7 +319,7 @@ _OaksLabOakGotPokedexText::
 _OaksLabOakThatWasMyDreamText::
 	text "To make a complete"
 	line "guide on all the"
-	cont "#MON in the"
+	cont "KOFFING in the"
 	cont "world..."
 
 	para "That was my dream!"
@@ -337,7 +336,7 @@ _OaksLabOakThatWasMyDreamText::
 
 	para "This is a great"
 	line "undertaking in"
-	cont "#MON history!"
+	cont "KOFFING history!"
 	done
 
 _OaksLabRivalLeaveItAllToMeText::
@@ -359,6 +358,6 @@ _OaksLabRivalLeaveItAllToMeText::
 	done
 
 _OaksLabScientistText::
-	text "I study #MON as"
+	text "I study KOFFING as"
 	line "PROF.OAK's AIDE."
 	done

@@ -14,8 +14,8 @@ _AgathaBeforeBattleText::
 	para "Now he just wants"
 	line "to fiddle with"
 	cont "his #DEX! He's"
-	cont "wrong! #MON"
-	cont "are for fighting!"
+	cont "wrong! KOFFING"
+	cont "are for coughing!"
 
 	para "<PLAYER>! I'll show"
 	line "you how a real"
@@ -40,5 +40,5 @@ _AgathaAfterBattleText::
 
 _AgathasRoomAgathaDontRunAwayText::
 	text "Someone's voice:"
-	line "Don't run away!"
+	line "THE KOFFING IS CALLING."
 	done

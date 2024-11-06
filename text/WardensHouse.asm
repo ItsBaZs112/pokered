@@ -54,7 +54,7 @@ _WardensHouseWardenHM04ExplanationText::
 	text "WARDEN: HM04"
 	line "teaches STRENGTH!"
 
-	para "It lets #MON"
+	para "It lets KOFFING"
 	line "move boulders"
 	cont "when you're out-"
 	cont "side of battle."
@@ -76,11 +76,11 @@ _WardensHouseWardenHM04NoRoomText::
 	done
 
 _WardensHouseDisplayPhotosAndFossilsText::
-	text "#MON photos"
+	text "KOFFING photos"
 	line "and fossils."
 	done
 
 _WardensHouseDisplayMerchandiseText::
-	text "Old #MON"
+	text "Old KOFFING"
 	line "merchandise."
 	done

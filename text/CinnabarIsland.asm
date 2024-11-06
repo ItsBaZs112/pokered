@@ -24,12 +24,12 @@ _CinnabarIslandSignText::
 	done
 
 _CinnabarIslandPokemonLabSignText::
-	text "#MON LAB"
+	text "KOFFING LAB"
 	done
 
 _CinnabarIslandGymSignText::
 	text "CINNABAR ISLAND"
-	line "#MON GYM"
+	line "KOFFING GYM"
 	cont "LEADER: BLAINE"
 
 	para "The Hot-Headed"

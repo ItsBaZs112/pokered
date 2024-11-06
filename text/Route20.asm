@@ -9,7 +9,7 @@ _Route20Swimmer1EndBattleText::
 
 _Route20Swimmer1AfterBattleText::
 	text "I wish I could"
-	line "ride my #MON."
+	line "ride my KOFFING."
 	done
 
 _Route20Swimmer2BattleText::
@@ -68,12 +68,12 @@ _Route20Swimmer5EndBattleText::
 _Route20Swimmer5AfterBattleText::
 	text "I should've been"
 	line "buffing up my"
-	cont "#MON, not me!"
+	cont "KOFFING, not me!"
 	done
 
 _Route20Swimmer6BattleText::
 	text "Why are you"
-	line "riding a #MON?"
+	line "riding a KOFFING?"
 	cont "Can't you swim?"
 	done
 
@@ -83,13 +83,13 @@ _Route20Swimmer6EndBattleText::
 	prompt
 
 _Route20Swimmer6AfterBattleText::
-	text "Riding a #MON"
+	text "Riding a KOFFING"
 	line "sure looks fun!"
 	done
 
 _Route20CooltrainerMBattleText::
 	text "I rode my bird"
-	line "#MON here!"
+	line "KOFFING here!"
 	done
 
 _Route20CooltrainerMEndBattleText::
@@ -129,7 +129,7 @@ _Route20Swimmer8EndBattleText::
 	prompt
 
 _Route20Swimmer8AfterBattleText::
-	text "#MON have"
+	text "KOFFING have"
 	line "taken over an"
 	cont "abandoned mansion"
 	cont "on CINNABAR!"
@@ -138,7 +138,7 @@ _Route20Swimmer8AfterBattleText::
 _Route20Swimmer9BattleText::
 	text "CINNABAR, in the"
 	line "west, has a LAB"
-	cont "for #MON."
+	cont "for KOFFING."
 	done
 
 _Route20Swimmer9EndBattleText::

@@ -9,7 +9,7 @@ _LancesRoomLanceBeforeBattleText::
 
 	para "You know that"
 	line "dragons are"
-	cont "mythical #MON!"
+	cont "mythical KOFFING!"
 
 	para "They're hard to"
 	line "catch and raise,"
@@ -32,7 +32,7 @@ _LancesRoomLanceEndBattleText::
 
 	para "I hate to admit"
 	line "it, but you are a"
-	cont "#MON master!"
+	cont "KOFFING master!"
 	prompt
 
 _LancesRoomLanceAfterBattleText::
@@ -42,7 +42,7 @@ _LancesRoomLanceAfterBattleText::
 	cont "you, <PLAYER>!"
 
 	para "You are now the"
-	line "#MON LEAGUE"
+	line "KOFFING LEAGUE"
 	cont "champion!"
 
 	para "...Or, you would"
@@ -59,6 +59,6 @@ _LancesRoomLanceAfterBattleText::
 	cont "FOUR before you!"
 
 	para "He is the real"
-	line "#MON LEAGUE"
+	line "KOFFING LEAGUE"
 	cont "champion!@"
 	text_end

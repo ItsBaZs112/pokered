@@ -11,7 +11,7 @@ _PokemonFaintedText::
 
 _PlayerBlackedOutText::
 	text "<PLAYER> is out of"
-	line "useable #MON!"
+	line "useable KOFFING!"
 
 	para "<PLAYER> blacked"
 	line "out!"
@@ -158,26 +158,26 @@ _HMCantDeleteText::
 
 _PokemonCenterWelcomeText::
 	text "Welcome to our"
-	line "#MON CENTER!"
+	line "KOFFING CENTER!"
 
 	para "We heal your"
-	line "#MON back to"
+	line "KOFFING back to"
 	cont "perfect health!"
 	prompt
 
 _ShallWeHealYourPokemonText::
 	text "Shall we heal your"
-	line "#MON?"
+	line "KOFFING?"
 	done
 
 _NeedYourPokemonText::
 	text "OK. We'll need"
-	line "your #MON."
+	line "your KOFFING."
 	done
 
 _PokemonFightingFitText::
 	text "Thank you!"
-	line "Your #MON are"
+	line "Your KOFFING are"
 	cont "fighting fit!"
 	prompt
 

@@ -39,16 +39,16 @@ _SaffronGymSabrinaPostBattleAdviceText::
 
 _SaffronGymSabrinaMarshBadgeInfoText::
 	text "The MARSHBADGE"
-	line "makes #MON up"
+	line "makes KOFFING up"
 	cont "to L70 obey you!"
 
-	para "Stronger #MON"
+	para "Stronger KOFFING"
 	line "will become wild,"
 	cont "ignoring your"
 	cont "orders in battle!"
 
 	para "Just don't raise"
-	line "your #MON too"
+	line "your KOFFING too"
 	cont "much!"
 
 	para "Wait, please take"
@@ -78,13 +78,13 @@ _SaffronGymGuideChampInMakingText::
 	text "Yo! Champ in"
 	line "making!"
 
-	para "SABRINA's #MON"
+	para "SABRINA's KOFFING"
 	line "use psychic power"
 	cont "instead of force!"
 
-	para "Fighting #MON"
+	para "Fighting KOFFING"
 	line "are weak against"
-	cont "psychic #MON!"
+	cont "psychic KOFFING!"
 
 	para "They get creamed"
 	line "before they can"
@@ -133,17 +133,17 @@ _SaffronGymYoungster1EndBattleText::
 	prompt
 
 _SaffronGymYoungster1AfterBattleText::
-	text "Psychic #MON"
+	text "Psychic KOFFING"
 	line "fear only ghosts"
 	cont "and bugs!"
 	done
 
 _SaffronGymChanneler2BattleText::
-	text "#MON take on"
+	text "KOFFING take on"
 	line "the appearance of"
 	cont "their trainers."
 
-	para "Your #MON must"
+	para "Your KOFFING must"
 	line "be tough, then!"
 	done
 
@@ -155,7 +155,7 @@ _SaffronGymChanneler2EndBattleText::
 _SaffronGymChanneler2AfterBattleText::
 	text "I must teach"
 	line "better techniques"
-	cont "to my #MON!"
+	cont "to my KOFFING!"
 	done
 
 _SaffronGymYoungster2BattleText::
@@ -177,7 +177,7 @@ _SaffronGymYoungster2AfterBattleText::
 
 _SaffronGymChanneler3BattleText::
 	text "You and I, our"
-	line "#MON shall"
+	line "KOFFING shall"
 	cont "fight!"
 	done
 
@@ -208,7 +208,7 @@ _SaffronGymYoungster3EndBattleText::
 
 _SaffronGymYoungster3AfterBattleText::
 	text "There used to be"
-	line "2 #MON GYMs in"
+	line "2 KOFFING GYMs in"
 	cont "SAFFRON."
 
 	para "The FIGHTING DOJO"
@@ -219,7 +219,7 @@ _SaffronGymYoungster3AfterBattleText::
 	done
 
 _SaffronGymYoungster4BattleText::
-	text "SAFFRON #MON"
+	text "SAFFRON KOFFING"
 	line "GYM is famous for"
 	cont "its psychics!"
 

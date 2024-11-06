@@ -1,7 +1,7 @@
 _PokemonTower1FReceptionistText::
-	text "#MON TOWER was"
+	text "KOFFING TOWER was"
 	line "erected in the"
-	cont "memory of #MON"
+	cont "memory of KOFFING"
 	cont "that had died."
 	done
 

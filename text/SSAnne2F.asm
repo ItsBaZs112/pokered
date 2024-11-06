@@ -36,7 +36,7 @@ _SSAnne2FRivalDefeatedText::
 
 	para "At least you're"
 	line "raising your"
-	cont "#MON!"
+	cont "KOFFING!"
 	prompt
 
 _SSAnne2FRivalVictoryText::

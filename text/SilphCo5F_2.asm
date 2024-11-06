@@ -27,29 +27,31 @@ _SilphCo5FRocket2AfterBattleText::
 	done
 
 _SilphCo5FPokemonReport1Text::
-	text "It's a #MON"
+	text "It's a KOFFING"
 	line "REPORT!"
 
-	para "#MON LAB"
-	line "created PORYGON,"
+	para "KOFFING LAB"
+	line "created KOFFING,"
 	cont "the first virtual"
-	cont "reality #MON."
+	cont "reality KOFFING."
 	done
 
 _SilphCo5FPokemonReport2Text::
-	text "It's a #MON"
+	text "It's a KOFFING"
 	line "REPORT!"
 
-	para "Over 160 #MON"
+	para "Over 160 KOFFING"
 	line "techniques have"
 	cont "been confirmed."
 	done
 
 _SilphCo5FPokemonReport3Text::
-	text "It's a #MON"
+	text "It's a KOFFING"
 	line "REPORT!"
 
 	para "4 #MON evolve"
 	line "only when traded"
 	cont "by link-cable."
+	cont "Unfortunately, none"
+	cont "of them are KOFFING."
 	done

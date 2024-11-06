@@ -1,16 +1,16 @@
 _ViridianCityYoungster1Text::
 	text "Those # BALLs"
 	line "at your waist!"
-	cont "You have #MON!"
+	cont "You have KOFFING!"
 
 	para "It's great that"
 	line "you can carry and"
-	cont "use #MON any"
+	cont "use KOFFING any"
 	cont "time, anywhere!"
 	done
 
 _ViridianCityGambler1GymAlwaysClosedText::
-	text "This #MON GYM"
+	text "This KOFFING GYM"
 	line "is always closed."
 
 	para "I wonder who the"
@@ -26,7 +26,7 @@ _ViridianCityYoungster2YouWantToKnowAboutText::
 	text "You want to know"
 	line "about the 2 kinds"
 	cont "of caterpillar"
-	cont "#MON?"
+	cont "KOFFING?"
 	done
 
 ViridianCityYoungster2OkThenText::
@@ -115,13 +115,13 @@ _ViridianCityOldManKnowHowToCatchPokemonText::
 	line "a #DEX."
 
 	para "When you catch a"
-	line "#MON, #DEX"
+	line "KOFFING, #DEX"
 	cont "is automatically"
 	cont "updated."
 
 	para "What? Don't you"
 	line "know how to catch"
-	cont "#MON?"
+	cont "KOFFING?"
 
 	para "I'll show you"
 	line "how to then."
@@ -135,7 +135,7 @@ _ViridianCityOldManTimeIsMoneyText::
 _ViridianCityOldManYouNeedToWeakenTheTargetText::
 	text "First, you need"
 	line "to weaken the"
-	cont "target #MON."
+	cont "target KOFFING."
 	done
 
 _ViridianCitySignText::
@@ -147,7 +147,7 @@ _ViridianCitySignText::
 _ViridianCityTrainerTips1Text::
 	text "TRAINER TIPS"
 
-	para "Catch #MON"
+	para "Catch KOFFING"
 	line "and expand your"
 	cont "collection!"
 
@@ -160,19 +160,19 @@ _ViridianCityTrainerTips2Text::
 	text "TRAINER TIPS"
 
 	para "The battle moves"
-	line "of #MON are"
+	line "of KOFFING are"
 	cont "limited by their"
 	cont "POWER POINTs, PP."
 
 	para "To replenish PP,"
 	line "rest your tired"
-	cont "#MON at a"
-	cont "#MON CENTER!"
+	cont "KOFFING at a"
+	cont "KOFFING CENTER!"
 	done
 
 _ViridianCityGymSignText::
 	text "VIRIDIAN CITY"
-	line "#MON GYM"
+	line "KOFFING GYM"
 	done
 
 _ViridianCityGymLockedText::

@@ -20,20 +20,20 @@ _LavenderTownLittleGirlHaHaGuessNotText::
 _LavenderTownCooltrainerMText::
 	text "This town is known"
 	line "as the grave site"
-	cont "of #MON."
+	cont "of KOFFING."
 
 	para "Memorial services"
 	line "are held in"
-	cont "#MON TOWER."
+	cont "KOFFING TOWER."
 	done
 
 _LavenderTownSuperNerdText::
 	text "GHOSTs appeared"
-	line "in #MON TOWER."
+	line "in KOFFING TOWER."
 
 	para "I think they're"
 	line "the spirits of"
-	cont "#MON that the"
+	cont "KOFFING that the"
 	cont "ROCKETs killed."
 	done
 
@@ -54,11 +54,11 @@ _LavenderTownSilphScopeSignText::
 
 _LavenderTownPokemonHouseSignText::
 	text "LAVENDER VOLUNTEER"
-	line "#MON HOUSE"
+	line "KOFFING HOUSE"
 	done
 
 _LavenderTownPokemonTowerSignText::
 	text "May the Souls of"
-	line "#MON Rest Easy"
-	cont "#MON TOWER"
+	line "KOFFING Rest Easy"
+	cont "KOFFING TOWER"
 	done

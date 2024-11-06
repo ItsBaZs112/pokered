@@ -2,7 +2,7 @@ _IndigoPlateauLobbyGymGuideText::
 	text "Yo! Champ in"
 	line "making!"
 
-	para "At #MON LEAGUE,"
+	para "At KOFFING LEAGUE,"
 	line "you have to face"
 	cont "the ELITE FOUR in"
 	cont "succession."

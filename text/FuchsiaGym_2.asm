@@ -1,6 +1,6 @@
 _FuchsiaGymKogaPostBattleAdviceText::
 	text "When afflicted by"
-	line "TOXIC, #MON"
+	line "TOXIC, KOFFING"
 	cont "suffer more and"
 	cont "more as battle"
 	cont "progresses!"
@@ -13,7 +13,7 @@ _FuchsiaGymKogaSoulBadgeInfoText::
 	text "Now that you have"
 	line "the SOULBADGE,"
 	cont "the DEFENSE of"
-	cont "your #MON"
+	cont "your KOFFING"
 	cont "increases!"
 
 	para "It also lets you"
@@ -49,7 +49,7 @@ _FuchsiaGymKogaTM06NoRoomText::
 _FuchsiaGymRocker1BattleText::
 	text "Strength isn't"
 	line "the key for"
-	cont "#MON!"
+	cont "KOFFING!"
 
 	para "It's strategy!"
 

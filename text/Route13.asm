@@ -1,5 +1,5 @@
 _Route13CooltrainerM1BattleText::
-	text "My bird #MON"
+	text "My bird KOFFING"
 	line "want to scrap!"
 	done
 
@@ -9,7 +9,7 @@ _Route13CooltrainerM1EndBattleText::
 	prompt
 
 _Route13CooltrainerM1AfterBattleText::
-	text "My #MON look"
+	text "My KOFFING look"
 	line "happy even though"
 	cont "they lost."
 	done
@@ -47,7 +47,7 @@ _Route13CooltrainerF2AfterBattleText::
 	done
 
 _Route13CooltrainerF3BattleText::
-	text "My cute #MON"
+	text "My cute KOFFING"
 	line "wish to make your"
 	cont "acquaintance."
 	done
@@ -59,7 +59,7 @@ _Route13CooltrainerF3EndBattleText::
 
 _Route13CooltrainerF3AfterBattleText::
 	text "You have to make"
-	line "#MON fight to"
+	line "KOFFING fight to"
 	cont "toughen them up!"
 	done
 
@@ -76,7 +76,7 @@ _Route13CooltrainerF4EndBattleText::
 _Route13CooltrainerF4AfterBattleText::
 	text "CARBOS boosted"
 	line "the SPEED of my"
-	cont "#MON."
+	cont "KOFFING."
 	done
 
 _Route13CooltrainerM2BattleText::
@@ -107,12 +107,12 @@ _Route13Beauty1EndBattleText::
 _Route13Beauty1AfterBattleText::
 	text "I wonder which is"
 	line "stronger, male or"
-	cont "female #MON?"
+	cont "female KOFFING?"
 	done
 
 _Route13Beauty2BattleText::
 	text "Do you want to"
-	line "#MON with me?"
+	line "KOFFING with me?"
 	done
 
 _Route13Beauty2EndBattleText::
@@ -123,7 +123,7 @@ _Route13Beauty2EndBattleText::
 _Route13Beauty2AfterBattleText::
 	text "I don't know"
 	line "anything about"
-	cont "#MON. I just"
+	cont "KOFFING. I just"
 	cont "like cool ones!"
 	done
 
@@ -143,7 +143,7 @@ _Route13BikerAfterBattleText::
 
 _Route13CooltrainerM3BattleText::
 	text "I always go with"
-	line "bird #MON!"
+	line "bird KOFFING!"
 	done
 
 _Route13CooltrainerM3EndBattleText::

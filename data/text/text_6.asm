@@ -2,17 +2,17 @@ _ItemUseBallText00::
 	text "It dodged the"
 	line "thrown BALL!"
 
-	para "This #MON"
+	para "This KOFFING"
 	line "can't be caught!"
 	prompt
 
 _ItemUseBallText01::
 	text "You missed the"
-	line "#MON!"
+	line "KOFFING!"
 	prompt
 
 _ItemUseBallText02::
-	text "Darn! The #MON"
+	text "Darn! The KOFFING"
 	line "broke free!"
 	prompt
 
@@ -101,7 +101,7 @@ _PlayedFluteNoEffectText::
 
 _FluteWokeUpText::
 	text "All sleeping"
-	line "#MON woke up."
+	line "KOFFING woke up."
 	prompt
 
 _PlayedFluteHadEffectText::
@@ -170,7 +170,7 @@ _TeachMachineMoveText::
 	para "Teach @"
 	text_ram wStringBuffer
 	text_start
-	line "to a #MON?"
+	line "to a KOFFING?"
 	done
 
 _MonCannotLearnMachineMoveText::
@@ -225,7 +225,7 @@ _NoSurfingHereText::
 	prompt
 
 _BoxFullCannotThrowBallText::
-	text "The #MON BOX"
+	text "The KOFFING BOX"
 	line "is full! Can't"
 	cont "use that item!"
 	prompt

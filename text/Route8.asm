@@ -1,6 +1,6 @@
 _Route8SuperNerd1BattleText::
 	text "You look good at"
-	line "#MON, but"
+	line "KOFFING, but"
 	cont "how's your chem?"
 	done
 
@@ -55,7 +55,7 @@ _Route8CooltrainerF21EndBattleText::
 	prompt
 
 _Route8CooltrainerF1AfterBattleText::
-	text "When #MON grow"
+	text "When KOFFING grow"
 	line "up they get ugly!"
 	cont "They shouldn't"
 	cont "evolve!"
@@ -63,7 +63,7 @@ _Route8CooltrainerF1AfterBattleText::
 
 _Route8SuperNerd3BattleText::
 	text "School is fun, but"
-	line "so are #MON."
+	line "so are KOFFING."
 	done
 
 _Route8SuperNerd3EndBattleText::
@@ -122,7 +122,7 @@ _Route8Gambler2EndBattleText::
 
 _Route8Gambler2AfterBattleText::
 	text "Gambling and"
-	line "#MON are like"
+	line "KOFFING are like"
 	cont "eating peanuts!"
 	cont "Just can't stop!"
 	done
@@ -130,7 +130,7 @@ _Route8Gambler2AfterBattleText::
 _Route8CooltrainerF4BattleText::
 	text "What's a cute,"
 	line "round and fluffy"
-	cont "#MON?"
+	cont "KOFFING?"
 	done
 
 _Route8CooltrainerF4EndBattleText::

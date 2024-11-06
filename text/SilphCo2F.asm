@@ -21,7 +21,7 @@ _SilphCo2FSilphWorkerFTM36ExplanationText::
 	line "SELFDESTRUCT!"
 
 	para "It's powerful, but"
-	line "the #MON that"
+	line "the KOFFING that"
 	cont "uses it faints!"
 	cont "Be careful."
 	done

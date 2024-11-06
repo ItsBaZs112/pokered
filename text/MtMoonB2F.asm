@@ -42,7 +42,7 @@ _MtMoonB2fSuperNerdEachTakeOneText::
 _MtMoonB2FSuperNerdTheresAPokemonLabText::
 	text "Far away, on"
 	line "CINNABAR ISLAND,"
-	cont "there's a #MON"
+	cont "there's a KOFFING"
 	cont "LAB."
 
 	para "They do research"
@@ -75,7 +75,7 @@ _MtMoonB2FRocket1AfterBattleText::
 
 _MtMoonB2FRocket2BattleText::
 	text "We, TEAM ROCKET,"
-	line "are #MON"
+	line "are KOFFING"
 	cont "gangsters!"
 	done
 
@@ -119,7 +119,7 @@ _MtMoonB2FRocket4EndBattleText::
 	prompt
 
 _MtMoonB2FRocket4AfterBattleText::
-	text "#MON lived"
+	text "KOFFING lived"
 	line "here long before"
 	cont "people came."
 	done

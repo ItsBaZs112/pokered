@@ -4,12 +4,12 @@ _BrunoBeforeBattleText::
 
 	para "Through rigorous"
 	line "training, people"
-	cont "and #MON can"
+	cont "and KOFFING can"
 	cont "become stronger!"
 
 	para "I've weight"
 	line "trained with"
-	cont "my #MON!"
+	cont "my KOFFING!"
 
 	para "<PLAYER>!"
 
@@ -33,5 +33,5 @@ _BrunoAfterBattleText::
 
 _BrunosRoomBrunoDontRunAwayText::
 	text "Someone's voice:"
-	line "Don't run away!"
+	line "THE KOFFING IS CALLING."
 	done

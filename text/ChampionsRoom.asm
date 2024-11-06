@@ -12,16 +12,16 @@ _ChampionsRoomRivalIntroText::
 	para "While working on"
 	line "#DEX, I looked"
 	cont "all over for"
-	cont "powerful #MON!"
+	cont "powerful KOFFING!"
 
 	para "Not only that, I"
 	line "assembled teams"
 	cont "that would beat"
-	cont "any #MON type!"
+	cont "any KOFFING type!"
 
 	para "And now!"
 
-	para "I'm the #MON"
+	para "I'm the KOFFING"
 	line "LEAGUE champion!"
 
 	para "<PLAYER>! Do you"
@@ -59,7 +59,7 @@ _RivalVictoryText::
 	para "You did well to"
 	line "even reach me,"
 	cont "<RIVAL>, the"
-	cont "#MON genius!"
+	cont "KOFFING genius!"
 
 	para "Nice try, loser!"
 	line "Hahaha!"
@@ -71,10 +71,10 @@ _ChampionsRoomRivalAfterBattleText::
 
 	para "I never made any"
 	line "mistakes raising"
-	cont "my #MON..."
+	cont "my KOFFING..."
 
 	para "Darn it! You're"
-	line "the new #MON"
+	line "the new KOFFING"
 	cont "LEAGUE champion!"
 
 	para "Although I don't"
@@ -89,7 +89,7 @@ _ChampionsRoomOakCongratulatesPlayerText::
 	text "OAK: So, you won!"
 	line "Congratulations!"
 	cont "You're the new"
-	cont "#MON LEAGUE"
+	cont "KOFFING LEAGUE"
 	cont "champion!"
 
 	para "You've grown up so"
@@ -121,7 +121,7 @@ _ChampionsRoomOakDisappointedWithRivalText::
 
 	para "You have forgotten"
 	line "to treat your"
-	cont "#MON with"
+	cont "KOFFING with"
 	cont "trust and love!"
 
 	para "Without them, you"
@@ -138,7 +138,7 @@ _ChampionsRoomOakComeWithMeText::
 	cont "own doing!"
 
 	para "The bond you share"
-	line "with your #MON"
+	line "with your KOFFING"
 	cont "is marvelous!"
 
 	para "<PLAYER>!"

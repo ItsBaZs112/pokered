@@ -5,7 +5,7 @@ _CinnabarGymBlainePreBattleText::
 	line "am the LEADER of"
 	cont "CINNABAR GYM!"
 
-	para "My fiery #MON"
+	para "My fiery KOFFING"
 	line "will incinerate"
 	cont "all challengers!"
 
@@ -27,7 +27,7 @@ _CinnabarGymBlainePostBattleAdviceText::
 	cont "technique!"
 
 	para "Don't waste it on"
-	line "water #MON!"
+	line "water KOFFING!"
 	done
 
 _CinnabarGymBlaineVolcanoBadgeInfoText::
@@ -36,7 +36,7 @@ _CinnabarGymBlaineVolcanoBadgeInfoText::
 	para "The VOLCANOBADGE"
 	line "heightens the"
 	cont "SPECIAL abilities"
-	cont "of your #MON!"
+	cont "of your KOFFING!"
 
 	para "Here, you can"
 	line "have this too!"
@@ -56,7 +56,7 @@ _CinnabarGymBlaineTM38ExplanationText::
 	line "FIRE BLAST!"
 
 	para "Teach it to fire-"
-	line "type #MON!"
+	line "type KOFFING!"
 
 	para "CHARMELEON or"
 	line "PONYTA would be"
@@ -70,7 +70,7 @@ _CinnabarGymBlaineTM38NoRoomText::
 
 _CinnabarGymSuperNerd1BattleText::
 	text "Do you know how"
-	line "hot #MON fire"
+	line "hot KOFFING fire"
 	cont "breath can get?"
 	done
 
@@ -102,13 +102,13 @@ _CinnabarGymSuperNerd2EndBattleText::
 _CinnabarGymSuperNerd2AfterBattleText::
 	text "I can't help"
 	line "stealing other"
-	cont "people's #MON!"
+	cont "people's KOFFING!"
 	done
 
 _CinnabarGymSuperNerd3BattleText::
 	text "You can't win!"
 	line "I have studied"
-	cont "#MON totally!"
+	cont "KOFFING totally!"
 	done
 
 _CinnabarGymSuperNerd3EndBattleText::
@@ -124,7 +124,7 @@ _CinnabarGymSuperNerd3AfterBattleText::
 
 _CinnabarGymSuperNerd4BattleText::
 	text "I just like using"
-	line "fire #MON!"
+	line "fire KOFFING!"
 	done
 
 _CinnabarGymSuperNerd4EndBattleText::
@@ -134,7 +134,7 @@ _CinnabarGymSuperNerd4EndBattleText::
 
 _CinnabarGymSuperNerd4AfterBattleText::
 	text "I wish there was"
-	line "a thief #MON!"
+	line "a thief KOFFING!"
 	cont "I'd use that!"
 	done
 
@@ -151,7 +151,7 @@ _CinnabarGymSuperNerd5AfterBattleText::
 	text "BLAINE was lost"
 	line "in the mountains"
 	cont "when a fiery bird"
-	cont "#MON appeared."
+	cont "KOFFING appeared."
 
 	para "Its light enabled"
 	line "BLAINE to find"
@@ -170,7 +170,7 @@ _CinnabarGymSuperNerd6EndBattleText::
 	prompt
 
 _CinnabarGymSuperNerd6AfterBattleText::
-	text "Us fire #MON"
+	text "Us fire KOFFING"
 	line "fans like PONYTA"
 	cont "and NINETALES!"
 	done
@@ -188,7 +188,7 @@ _CinnabarGymSuperNerd7EndBattleText::
 _CinnabarGymSuperNerd7AfterBattleText::
 	text "Water beats fire!"
 	line "But, fire melts"
-	cont "ice #MON!"
+	cont "ice KOFFING!"
 	done
 
 _CinnabarGymGymGuideChampInMakingText::
@@ -197,7 +197,7 @@ _CinnabarGymGymGuideChampInMakingText::
 
 	para "The hot-headed"
 	line "BLAINE is a fire"
-	cont "#MON pro!"
+	cont "KOFFING pro!"
 
 	para "Douse his spirits"
 	line "with water!"

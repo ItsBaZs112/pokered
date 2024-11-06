@@ -1,18 +1,18 @@
 _LoreleisRoomLoreleiBeforeBattleText::
 	text "Welcome to"
-	line "#MON LEAGUE!"
+	line "KOFFING LEAGUE!"
 
 	para "I am LORELEI of"
 	line "the ELITE FOUR!"
 
 	para "No one can best"
 	line "me when it comes"
-	cont "to icy #MON!"
+	cont "to icy KOFFING!"
 
 	para "Freezing moves"
 	line "are powerful!"
 
-	para "Your #MON will"
+	para "Your KOFFING will"
 	line "be at my mercy"
 	cont "when they are"
 	cont "frozen solid!"
@@ -32,11 +32,11 @@ _LoreleisRoomLoreleiAfterBattleText::
 	cont "Go on ahead!"
 
 	para "You only got a"
-	line "taste of #MON"
+	line "taste of KOFFING"
 	cont "LEAGUE power!"
 	done
 
 _LoreleisRoomLoreleiDontRunAwayText::
 	text "Someone's voice:"
-	line "Don't run away!"
+	line "THE KOFFING IS CALLING."
 	done

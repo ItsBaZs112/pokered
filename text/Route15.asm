@@ -1,6 +1,6 @@
 _Route15CooltrainerF1BattleText::
 	text "Let me try out the"
-	line "#MON I just"
+	line "KOFFING I just"
 	cont "got in a trade!"
 	done
 
@@ -12,7 +12,7 @@ _Route15CooltrainerF1EndBattleText::
 _Route15CooltrainerF1AfterBattleText::
 	text "You can't change"
 	line "the nickname of"
-	cont "any #MON you"
+	cont "any KOFFING you"
 	cont "get in a trade."
 
 	para "Only the Original"
@@ -39,7 +39,7 @@ _Route15CooltrainerF2AfterBattleText::
 _Route15CooltrainerM1BattleText::
 	text "When I whistle, I"
 	line "can summon bird"
-	cont "#MON!"
+	cont "KOFFING!"
 	done
 
 _Route15CooltrainerM1EndBattleText::
@@ -86,7 +86,7 @@ _Route15Beauty1AfterBattleText::
 	done
 
 _Route15Beauty2BattleText::
-	text "I raise #MON"
+	text "I raise KOFFING"
 	line "because I live"
 	cont "alone!"
 	done
@@ -99,7 +99,7 @@ _Route15Beauty2EndBattleText::
 _Route15Beauty2AfterBattleText::
 	text "I just like going"
 	line "home to be with"
-	cont "my #MON!"
+	cont "my KOFFING!"
 	done
 
 _Route15Biker1BattleText::
@@ -137,7 +137,7 @@ _Route15Biker2AfterBattleText::
 
 _Route15CooltrainerF3BattleText::
 	text "What's cool?"
-	line "Trading #MON!"
+	line "Trading KOFFING!"
 	done
 
 _Route15CooltrainerF3EndBattleText::
@@ -146,13 +146,13 @@ _Route15CooltrainerF3EndBattleText::
 	prompt
 
 _Route15CooltrainerF3AfterBattleText::
-	text "I trade #MON"
+	text "I trade KOFFING"
 	line "with my friends!"
 	done
 
 _Route15CooltrainerF4BattleText::
 	text "Want to play with"
-	line "my #MON?"
+	line "my KOFFING?"
 	done
 
 _Route15CooltrainerF4EndBattleText::

@@ -7,16 +7,16 @@ _VermilionGymLTSurgePostBattleAdviceText::
 
 	para "But, it's useless"
 	line "against ground-"
-	cont "type #MON!"
+	cont "type KOFFING!"
 	done
 
 _VermilionGymLTSurgeThunderBadgeInfoText::
 	text "The THUNDERBADGE"
 	line "cranks up your"
-	cont "#MON's SPEED!"
+	cont "KOFFING's SPEED!"
 
 	para "It also lets your"
-	line "#MON FLY any"
+	line "KOFFING FLY any"
 	cont "time, kid!"
 
 	para "You're special,"
@@ -37,7 +37,7 @@ _TM24ExplanationText::
 	line "THUNDERBOLT!"
 
 	para "Teach it to an"
-	line "electric #MON!"
+	line "electric KOFFING!"
 	done
 
 _VermilionGymLTSurgeTM24NoRoomText::
@@ -124,10 +124,10 @@ _VermilionGymGymGuideChampInMakingText::
 	cont "American!"
 
 	para "He's an expert on"
-	line "electric #MON!"
+	line "electric KOFFING!"
 
 	para "Birds and water"
-	line "#MON are at"
+	line "KOFFING are at"
 	cont "risk! Beware of"
 	cont "paralysis too!"
 

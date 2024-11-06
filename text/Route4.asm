@@ -1,17 +1,17 @@
 _Route4CooltrainerF1Text::
 	text "Ouch! I tripped"
 	line "over a rocky"
-	cont "#MON, GEODUDE!"
+	cont "KOFFING, GEODUDE!"
 	done
 
 _Route4CooltrainerF2BattleText::
 	text "I came to get my"
-	line "mushroom #MON!"
+	line "mushroom KOFFING!"
 	done
 
 _Route4CooltrainerF2EndBattleText::
 	text "Oh! My cute"
-	line "mushroom #MON!"
+	line "mushroom KOFFING!"
 	prompt
 
 _Route4CooltrainerF2AfterBattleText::

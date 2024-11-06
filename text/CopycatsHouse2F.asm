@@ -1,6 +1,6 @@
 _CopycatsHouse2FCopycatDoYouLikePokemonText::
 	text "<PLAYER>: Hi! Do"
-	line "you like #MON?"
+	line "you like KOFFING?"
 
 	para "<PLAYER>: Uh no, I"
 	line "just asked you."
@@ -40,7 +40,7 @@ _CopycatsHouse2FCopycatTM31Explanation1Text::
 	line "favorite, MIMIC!"
 
 	para "Use it on a good"
-	line "#MON!@"
+	line "KOFFING!@"
 	text_end
 
 _CopycatsHouse2FCopycatTM31Explanation2Text::
@@ -73,7 +73,7 @@ _CopycatsHouse2FDoduoText::
 
 _CopycatsHouse2FRareDollText::
 	text "This is a rare"
-	line "#MON! Huh?"
+	line "KOFFING! Huh?"
 	cont "It's only a doll!"
 	done
 
@@ -91,7 +91,7 @@ _CopycatsHouse2FPCMySecretsText::
 	para "Skill: Mimicry!"
 	line "Hobby: Collecting"
 	cont "dolls!"
-	cont "Favorite #MON:"
+	cont "Favorite KOFFING:"
 	cont "CLEFAIRY!"
 	done
 

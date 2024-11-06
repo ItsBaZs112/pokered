@@ -1,5 +1,5 @@
 _CeladonMart5FGentlemanText::
-	text "#MON ability"
+	text "KOFFING ability"
 	line "enhancers can be"
 	cont "bought only here."
 
@@ -13,7 +13,7 @@ _CeladonMart5FGentlemanText::
 
 _CeladonMart5FSailorText::
 	text "I'm here for"
-	line "#MON ability"
+	line "KOFFING ability"
 	cont "enhancers."
 
 	para "PROTEIN increases"

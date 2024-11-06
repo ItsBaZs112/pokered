@@ -10,7 +10,7 @@ _VermilionPidgeyHousePidgeyText::
 	text_end
 
 _VermilionPidgeyHouseLetterText::
-	text "Dear PIPPI, I hope"
+	text "Dear PIPIS, I hope"
 	line "to see you soon."
 
 	para "I heard SAFFRON"

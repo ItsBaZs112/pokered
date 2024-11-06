@@ -344,57 +344,52 @@ ExeggcuteEvosMoves:
 
 GrimerEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 38, MUK
+	db EVOLVE_LEVEL, 99, MUK
 	db 0
 ; Learnset
-	db 30, POISON_GAS
-	db 33, MINIMIZE
-	db 37, SLUDGE
-	db 42, HARDEN
-	db 48, SCREECH
-	db 55, ACID_ARMOR
+	db 10, SCREECH
+	db 12, TAKE_DOWN
+	db 20, HAZE
+	db 24, ACID
+	db 32, SLUDGE
+	db 37, SMOKESCREEN
+	db 40, DISABLE
+	db 45, CONFUSION
+	db 48, SURF
+	db 50, TOXIC
+	db 55, PSYBEAM
+	db 67, PSYCHIC_M
+	db 69, TRI_ATTACK
+	db 80, KINESIS
+	db 90, THUNDERPUNCH
+	db 91, FIRE_PUNCH
+	db 92, ICE_PUNCH
+	db 95, ACID_ARMOR
+	db 100, SPLASH
 	db 0
 
 GengarEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 29, HYPNOSIS
-	db 38, DREAM_EATER
 	db 0
 
 NidoranFEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 16, NIDORINA
 	db 0
 ; Learnset
-	db 8, SCRATCH
-	db 14, POISON_STING
-	db 21, TAIL_WHIP
-	db 29, BITE
-	db 36, FURY_SWIPES
-	db 43, DOUBLE_KICK
 	db 0
 
 NidoqueenEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 8, SCRATCH
-	db 14, POISON_STING
-	db 23, BODY_SLAM
 	db 0
 
 CuboneEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 28, MAROWAK
 	db 0
 ; Learnset
-	db 25, LEER
-	db 31, FOCUS_ENERGY
-	db 38, THRASH
-	db 43, BONEMERANG
-	db 46, RAGE
 	db 0
 
 RhyhornEvosMoves:
@@ -402,24 +397,12 @@ RhyhornEvosMoves:
 	db EVOLVE_LEVEL, 42, RHYDON
 	db 0
 ; Learnset
-	db 30, STOMP
-	db 35, TAIL_WHIP
-	db 40, FURY_ATTACK
-	db 45, HORN_DRILL
-	db 50, LEER
-	db 55, TAKE_DOWN
 	db 0
 
 LaprasEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 16, SING
-	db 20, MIST
-	db 25, BODY_SLAM
-	db 31, CONFUSE_RAY
-	db 38, ICE_BEAM
-	db 46, HYDRO_PUMP
 	db 0
 
 ArcanineEvosMoves:
@@ -1609,14 +1592,10 @@ MissingNo87EvosMoves:
 
 MukEvosMoves:
 ; Evolutions
+	db EVOLVE_LEVEL, 100, GRIMER
 	db 0
 ; Learnset
-	db 30, POISON_GAS
-	db 33, MINIMIZE
-	db 37, SLUDGE
-	db 45, HARDEN
-	db 53, SCREECH
-	db 60, ACID_ARMOR
+	db 100, SPLASH
 	db 0
 
 MissingNo8AEvosMoves:
@@ -1668,13 +1647,10 @@ ClefableEvosMoves:
 
 WeezingEvosMoves:
 ; Evolutions
+	db EVOLVE_LEVEL, 100, KOFFING
 	db 0
 ; Learnset
-	db 32, SLUDGE
-	db 39, SMOKESCREEN
-	db 43, SELFDESTRUCT
-	db 49, HAZE
-	db 53, EXPLOSION
+	db 100, LEER
 	db 0
 
 PersianEvosMoves:

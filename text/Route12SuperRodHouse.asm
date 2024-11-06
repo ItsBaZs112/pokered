@@ -47,7 +47,7 @@ _Route12SuperRodHouseFishingGuruTryFishingText::
 	line "in any water!"
 	cont "You can catch"
 	cont "different kinds"
-	cont "of #MON."
+	cont "of KOFFING."
 
 	para "Try fishing"
 	line "wherever you can!"

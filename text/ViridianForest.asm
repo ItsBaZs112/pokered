@@ -3,12 +3,12 @@ _ViridianForestYoungster1Text::
 	line "some friends!"
 
 	para "They're out for"
-	line "#MON fights!"
+	line "KOFFING fights!"
 	done
 
 _ViridianForestYoungster2BattleText::
 	text "Hey! You have"
-	line "#MON! Come on!"
+	line "KOFFING! Come on!"
 	cont "Let's battle'em!"
 	done
 
@@ -26,13 +26,13 @@ _ViridianForestYoungster2AfterBattleText::
 _ViridianForestYoungster3BattleText::
 	text "Yo! You can't jam"
 	line "out if you're a"
-	cont "#MON trainer!"
+	cont "KOFFING trainer!"
 	done
 
 _ViridianForestYoungster3EndBattleText::
 	text "Huh?"
 	line "I ran out of"
-	cont "#MON!"
+	cont "KOFFING!"
 	prompt
 
 _ViridianForestYoungster3AfterBattleText::
@@ -65,7 +65,7 @@ _ViridianForestYoungster4AfterBattleText::
 _ViridianForestYoungster5Text::
 	text "I ran out of #"
 	line "BALLs to catch"
-	cont "#MON with!"
+	cont "KOFFING with!"
 
 	para "You should carry"
 	line "extras!"
@@ -83,7 +83,7 @@ _ViridianForestTrainerTips1Text::
 _ViridianForestUseAntidoteSignText::
 	text "For poison, use"
 	line "ANTIDOTE! Get it"
-	cont "at #MON MARTs!"
+	cont "at KOFFING MARTs!"
 	done
 
 _ViridianForestTrainerTips2Text::
@@ -99,16 +99,16 @@ _ViridianForestTrainerTips3Text::
 	text "TRAINER TIPS"
 
 	para "No stealing of"
-	line "#MON from"
+	line "KOFFING from"
 	cont "other trainers!"
 	cont "Catch only wild"
-	cont "#MON!"
+	cont "KOFFING!"
 	done
 
 _ViridianForestTrainerTips4Text::
 	text "TRAINER TIPS"
 
-	para "Weaken #MON"
+	para "Weaken KOFFING"
 	line "before attempting"
 	cont "capture!"
 

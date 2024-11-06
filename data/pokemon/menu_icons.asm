@@ -108,8 +108,8 @@ MonPartyData:
 	nybble ICON_MON       ; Hitmonlee
 	nybble ICON_MON       ; Hitmonchan
 	nybble ICON_MON       ; Lickitung
-	nybble ICON_MON       ; Koffing
-	nybble ICON_MON       ; Weezing
+	nybble ICON_BALL      ; Koffing
+	nybble ICON_BALL      ; Weezing
 	nybble ICON_QUADRUPED ; Rhyhorn
 	nybble ICON_MON       ; Rhydon
 	nybble ICON_FAIRY     ; Chansey

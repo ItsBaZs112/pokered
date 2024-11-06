@@ -20,7 +20,7 @@ _FuchsiaBillsGrandpasHouseBillsGrandpaText::
 
 _FuchsiaBillsGrandpasHouseYoungsterText::
 	text "BILL files his"
-	line "own #MON data"
+	line "own KOFFING data"
 	cont "on his PC!"
 
 	para "Did he show you?"

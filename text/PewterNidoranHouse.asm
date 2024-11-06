@@ -7,12 +7,12 @@ _PewterNidoranHouseLittleBoyText::
 	done
 
 _PewterNidoranHouseMiddleAgedManText::
-	text "Our #MON's an"
+	text "Our KOFFING's an"
 	line "outsider, so it's"
 	cont "hard to handle."
 
 	para "An outsider is a"
-	line "#MON that you"
+	line "KOFFING that you"
 	cont "get in a trade."
 
 	para "It grows fast, but"
