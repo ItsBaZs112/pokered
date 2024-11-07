@@ -797,14 +797,14 @@ KoffingEvosMoves:
 	db 0
 ; Learnset
 	db 10, SCREECH
-	db 12, TAKE_DOWN
+	db 13, EXPLOSION
 	db 20, HAZE
 	db 24, ACID
 	db 32, SLUDGE
 	db 37, SMOKESCREEN
 	db 40, SELFDESTRUCT
 	db 45, CONFUSION
-	db 48, EXPLOSION
+	db 48, TAKE_DOWN
 	db 50, TOXIC
 	db 55, PSYBEAM
 	db 67, PSYCHIC_M

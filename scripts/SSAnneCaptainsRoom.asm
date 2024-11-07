@@ -23,7 +23,7 @@ SSAnneCaptainsRoomCaptainText:
 	call PrintText
 	ld hl, SSAnneCaptainsRoomCaptainIFeelMuchBetterText
 	call PrintText
-	lb bc, HM_CUT, 1
+	lb bc, HM_EXPLOSION, 1
 	call GiveItem
 	jr nc, .bag_full
 	ld hl, SSAnneCaptainsRoomCaptainReceivedHM01Text

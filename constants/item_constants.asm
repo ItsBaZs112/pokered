@@ -137,7 +137,7 @@ MACRO add_hm
 ENDM
 
 DEF HM01 EQU const_value
-	add_hm CUT          ; $C4
+	add_hm EXPLOSION    ; $C4
 	add_hm FLY          ; $C5
 	add_hm SURF         ; $C6
 	add_hm STRENGTH     ; $C7
@@ -203,7 +203,7 @@ DEF TM01 EQU const_value
 	add_tm REST         ; $F4
 	add_tm THUNDER_WAVE ; $F5
 	add_tm PSYWAVE      ; $F6
-	add_tm EXPLOSION    ; $F7
+	add_tm CUT    ; $F7
 	add_tm ROCK_SLIDE   ; $F8
 	add_tm TRI_ATTACK   ; $F9
 	add_tm SUBSTITUTE   ; $FA

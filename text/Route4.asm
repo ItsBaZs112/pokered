@@ -1,23 +1,23 @@
 _Route4CooltrainerF1Text::
 	text "Ouch! I tripped"
 	line "over a rocky"
-	cont "KOFFING, GEODUDE!"
+	cont "KOFFING, KOFFING!"
 	done
 
 _Route4CooltrainerF2BattleText::
 	text "I came to get my"
-	line "mushroom KOFFING!"
+	line "virus KOFFING!"
 	done
 
 _Route4CooltrainerF2EndBattleText::
 	text "Oh! My cute"
-	line "mushroom KOFFING!"
+	line "virus KOFFING!"
 	prompt
 
 _Route4CooltrainerF2AfterBattleText::
 	text "There might not"
 	line "be any more"
-	cont "mushrooms here."
+	cont "viruses here."
 
 	para "I think I got"
 	line "them all."
